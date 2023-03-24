@@ -1,4 +1,4 @@
-# Nuxt Example
+# GPT-aaS
 
 Deploy your [Nuxt](https://nuxt.com) project to Vercel with zero configuration.
 

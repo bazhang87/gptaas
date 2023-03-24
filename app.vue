@@ -1,22 +1,22 @@
 <template>
   <div class="container">
-    <h1>Welcome to our GPTaaS!</h1>
+    <h1>GPTaaS: The world's leading GPT and LLM-based Technology Systems Integrator</h1>
     <p>We're using the latest machine learning and natural language processing technologies to revolutionize how businesses operate.</p>
     <div class="features">
       <div class="feature">
         <img src="/images/feature-1.png" alt="Feature 1">
-        <h2>Automated Content Creation</h2>
-        <p>Our AI algorithms can generate high-quality content, including articles, social media posts, and product descriptions, saving your business time and resources.</p>
+        <h2>Automated Workflows and Operational Efficiency</h2>
+        <p>We can help you create best-in-breed, custom-trained models and automated AI-powered workflows to leverage within your Customer Success and Support workflows based on the latest AI/ML industry LLM models, including OpenAI's GPT technology.</p>
       </div>
       <div class="feature">
         <img src="/images/feature-2.png" alt="Feature 2">
-        <h2>Intelligent Chatbots</h2>
-        <p>Our chatbots use natural language processing to provide personalized customer support 24/7, improving customer satisfaction and reducing workload for your team.</p>
+        <h2>Customer Success + Support</h2>
+        <p>Our models use natural language processing (NLP) to provide personalized customer support 24/7, improving customer satisfaction and reducing workload for your team.</p>
       </div>
       <div class="feature">
         <img src="/images/feature-3.png" alt="Feature 3">
-        <h2>Data Analysis and Insights</h2>
-        <p>Our data analysis tools provide real-time insights into customer behavior and trends, helping you optimize your business strategy and improve ROI.</p>
+        <h2>GPT and LLM-based Integrations</h2>
+        <p>Our team can assist with integrating GPT and LLM technology into your current product stack or offerings to enhance how you serve your end customers. </p>
       </div>
     </div>
     <button class="cta">Get started today!</button>

@@ -48,6 +48,9 @@ export default {
   margin: 0 auto;
   padding: 50px;
   text-align: center;
+  background-image: url('/images/developer-backsplash.png');
+  background-size: cover;
+  background-position: center;
 }
 .features {
   display: flex;
